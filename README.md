@@ -34,7 +34,7 @@ This program takes a number and outputs all the numbers from 1  to that number b
 
 ## Known Bugs
 
-There are no known bugs at this time
+if you do not refresh the page before each "ping-pong" click, you will not get the correct answer.
 
 ## Support and contact details
 
