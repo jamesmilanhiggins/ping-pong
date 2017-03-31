@@ -19,6 +19,8 @@ function pingPong () {
     };
   };
 
+
+
 //////////////
 //Front-end Logic
 //////////////
@@ -27,9 +29,9 @@ function pingPong () {
 $(document).ready(function(){
   $("#form").submit(function(event) {
     event.preventDefault();
-    var testLoop = pingPong();
-    output.forEach(function(testLoop) {
-    $("#finalOutput").append( "<li>" + testLoop + "</li>");
+    var finalLoop = pingPong();
+    output.forEach(function(finalLoop) {
+    $("#finalOutput").append( "<li>" + finalLoop + "</li>");
       });
-    });
   });
+});

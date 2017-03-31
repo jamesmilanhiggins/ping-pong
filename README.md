@@ -10,7 +10,7 @@ This program takes a number and outputs all the numbers from 1  to that number, 
 
 March 31st 2017
 
-[Link to gh-pages live site](https://jamesmilanhiggins.github.io/ping-pong)
+[Link to live site](https://jamesmilanhiggins.github.io/ping-pong)
 
 ## Specifications
 
