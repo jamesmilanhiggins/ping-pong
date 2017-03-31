@@ -1,10 +1,12 @@
 //Back-end Logic
-var numbers = ["1", "2", "3", "4", "5"];
+var numbers = ["3", "5", "14", "15", "1", "2", "3"];
 
 
 
 numbers.forEach(function(number) {
-  if ((number % 3)=== 0) {
+  if ((number % 3) === 0 && (number % 5) === 0) {
+      number = "ping-pong";
+  } else if ((number % 3)=== 0) {
     number = "ping";
   }  else if ((number % 5) === 0) {
     number = "pong";
@@ -29,8 +31,8 @@ numbers.forEach(function(number) {
     //   alert(numbers);
     // } else if ((number % 5) === 0) {
     //   number = "pong";
-  //   } else if ((number % 3)=== 0 && (number % 5) === 0) {
-  //     number = "ping-pong";
+    // } else if ((number % 3)=== 0 && (number % 5) === 0) {
+    //   number = "ping-pong";
   //   }
 
 //Front-end Logic
