@@ -1,6 +1,6 @@
 # Ping-Pong Program
 
-#### This program gives you a list of numbers, after changing a few.
+#### This program gives you a list of numbers up to the submitted number, after changing a few.
 
 #### By James Higgins
 
