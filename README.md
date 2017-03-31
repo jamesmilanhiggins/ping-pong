@@ -13,13 +13,7 @@ This program takes a number and outputs all the numbers from 1  to that number b
 *  This program will count from 1 up to the number the user submitted
   * **Example Input**:4
   * **Example Output**:[1,2,3,4]
-*  This program will output the list of numbers on the home page
-  * **Example Input**:4
-  * **Example Output**:[
-    **1**
-    **2**
-    **3**
-    **4**
+
 *  This program will change all numbers divisible by 3 to the word "ping"
   * **Example Input**:4
   * **Example Output**:[1,2,"ping", 4,]
